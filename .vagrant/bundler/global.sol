@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-cachier",["= 1.2.1"]],["dotenv-deployment",["~> 0.0.2"]],["dotenv",["~> 0.9"]],["vagrant-env",["= 0.0.3"]]],"checksum":"ea72b17d25195514f9d35b4449aed76bf52b490a61dccde2ebef2c1c64dbe206","vagrant_version":"2.4.1"}
