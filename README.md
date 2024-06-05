@@ -24,7 +24,7 @@ Pull the code.
 
 Build the Docker image on the Jenkins worker.
 
-1[](https://github.com/Visemir/danitProjekt02/blob/master/step02.jpg)
+![](https://github.com/Visemir/danitProjekt02/blob/master/step02.jpg)
 
 Run the Docker image with tests.
 
