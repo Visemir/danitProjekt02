@@ -36,6 +36,9 @@ If the tests are successful, log in to your Docker Hub account using Jenkins cre
 
 ![](https://github.com/Visemir/danitProjekt02/blob/master/steep05.jpg)
 
+![](https://github.com/Visemir/danitProjekt02/blob/master/dockerhub.jpg)
+
+
 If the tests fail, print the message "Tests failed".
 
 ![](https://github.com/Visemir/danitProjekt02/blob/master/step06.jpg)
